@@ -3,7 +3,7 @@
 
 This project aims to detect helmets in images and videos using the YOLOv5 object detection algorithm. It provides a script that takes a folder path as input, detects helmets in all the images and videos and also with live camera detections.
 
-<img src="https://github.com/meryemsakin/helmet-detection/blob/main/allresults.jpeg" width="1000" height="700">
+
 
 ## Project Objective:
 
@@ -35,12 +35,12 @@ python main.py <folder-path-containing-images>
 
 ## Metrics
 
-![Accuracy](https://github.com/meryemsakin/helmet-detection/blob/main/graph.png)
+
 
 ## Confusion Matrix
 The confusion matrix provides a comprehensive evaluation of the model's performance. Here is the confusion matrix for the helmet detection model:
 
-![cm](https://github.com/meryemsakin/helmet-detection/blob/main/cmatrix.png)
+
 
 ## Limitations and Potential Improvements:
 
@@ -55,12 +55,5 @@ The confusion matrix provides a comprehensive evaluation of the model's performa
 In conclusion, project involved detecting helmets in images and videos using a YOLO model. You used Python, OpenCV, YOLO, Supervision, and Ultralytics to implement the solution. The project workflow involved loading the YOLO model, reading the input images or video frames, passing them through the model, visualizing the detections, checking whether each person is wearing a helmet or not to work with live camera feeds. There are potential improvements that could be made to the project, but overall it provides a good foundation for detecting safety equipment in images and videos.# helmet-detection
 
 
-## Results
-
-<img src="https://github.com/meryemsakin/helmet-detection/blob/main/Result/floor_1/images/hard_hat_workers42.png" width="500" height="500">
-
-<img src="https://github.com/meryemsakin/helmet-detection/blob/main/Result/floor_1/images/image_6.jpg" width="500" height="500">
-
-<img src="https://github.com/meryemsakin/helmet-detection/blob/main/Result/floor_1/images/image_7.jpg" width="500" height="500">
 
 
