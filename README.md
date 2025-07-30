@@ -10,7 +10,7 @@ This project aims to detect helmets in images and videos using the YOLOv5 object
 The objective of this project is to detect helmets in images and videos using the YOLOv5 object detection algorithm. The project workflow involves loading the pre-trained YOLOv5 model, resizing input frames, passing them through the model for object detection, visualizing the detections.
 
 ```
-python main.py <folder-path-containing-images>
+python main.py
 ```
 
 ## Tools Used:
